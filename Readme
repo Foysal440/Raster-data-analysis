@@ -1,0 +1,5 @@
+Rasterio for geospatial data analysis in Python.
+Raster data sets are difficult to handle, but the video explains how to get information, visualize, and save data in a custom format.
+The first step is to install Rasterio, which is not available by default in Google Colab.
+After installation, the package can be imported and used to read raster data sets, which can be uploaded in Google Colab.
+Metadata about the raster data sets can also be obtained using Rasterio.
